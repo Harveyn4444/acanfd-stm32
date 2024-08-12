@@ -4,7 +4,7 @@
 //    THIS FILE IS SPECIFIC TO NUCLEO-H743ZI2
 //----------------------------------------------------------------------------------------
 
-#ifdef ARDUINO_NUCLEO_H743ZI2
+#if defined (ARDUINO_NUCLEO_H743ZI2) || defined (ARDUINO_NUCLEO_H753ZI)
 
 //----------------------------------------------------------------------------------------
 //    Constructor
